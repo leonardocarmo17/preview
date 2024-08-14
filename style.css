@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 50px;
+}
+fieldset{
+    padding: 50px;
+    margin: 100px;
+}
+.container button{
+    cursor: pointer;
+    outline: none;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 10px 30px;
+    border: 3px solid rgb(130,87,230);
+    border-radius: 10px;
+    background: transparent;
+    margin-top: 10px;
+}
+label{
+    font-weight: 700;
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+.input-file-upload{
+    display: flex;
+    flex-direction: column;
+    
+}
