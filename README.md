@@ -2,7 +2,7 @@
 
 Foco apenas no preview.
 
-**Link do Projeto:** [Clique Aqui!](http://sistemaoficial.rf.gd/)
+**Link do Projeto:** [Clique Aqui](http://sistemaoficial.rf.gd/)
 ---
 ## Requisitos Funcionais do Preview
 
